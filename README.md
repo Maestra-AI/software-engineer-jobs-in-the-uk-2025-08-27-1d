@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Software Engineer Jobs in the UK by Maestra (updated 2025-08-27)
 
-> This is a curated compilation of **114 Software Engineer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **113 Software Engineer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -33,7 +33,6 @@
 | Accenture03-accenturecareers | Digital Engineering Manager | City of Westminster, England | [Apply](https://accenture.wd1.myworkdayjobs.com/accenturecareers/job/London/Digital-Engineering-Manager_R00277192-1?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Vanguard-vanguard External | Technical Lead – AWS Engineering | City of Westminster, England | [Apply](https://vanguard.wd1.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Technical-Lead---AWS-Engineering_170103-1?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Quilter-wd3-external-career-site | Software Engineer (.NET) | Southampton, England | [Apply](https://quilter.wd1.myworkdayjobs.com/external-career-site/job/Southampton/Software-Engineer--NET-_R4799?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
-| Vontier | Software Engineer | Milton Keynes, England | [Apply](https://vontier.taleo.net/careersection/external/jobdetail.ftl?job=TEL003875&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Moonpig | Software Engineer - Discover Team | Manchester, England | [Apply](https://jobs.lever.co/moonpig/ec3da6a2-1aad-4af6-8d31-761fa2b1d196?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Opus 2 | Technical Lead | City of Edinburgh, Alba / Scotland | [Apply](https://apply.workable.com/j/600A184A89?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Aveva-wd3-aveva Careers | Senior Cloud DevOps Engineer | Derry/Londonderry, Northern Ireland / Tuaisceart Éireann | [Apply](https://aveva.wd1.myworkdayjobs.com/aveva_careers/job/DerryLondonDerry-United-Kingdom/Senior-Cloud-DevOps-Engineer_R011516?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
