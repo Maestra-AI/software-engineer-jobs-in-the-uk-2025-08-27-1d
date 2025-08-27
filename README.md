@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Software Engineer Jobs in the UK by Maestra (updated 2025-08-27)
 
-> This is a curated compilation of **115 Software Engineer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **114 Software Engineer Jobs in the UK** roles gathered over the last **1d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -94,7 +94,6 @@
 | Eu Capgemitecp3 | Platform Engineer (London, GB) | City of Westminster, England | [Apply](https://careers.capgemini.com/job/London-Platform-Engineer/1170471701/?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Eu Capgemitecp3 | Python Data Engineer (London, GB) | City of Westminster, England | [Apply](https://careers.capgemini.com/job/London-Python-Data-Engineer/1240408901/?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Cfcunderwriting | Senior Python Engineer | City of Westminster, England | [Apply](https://cfc.pinpointhq.com/en/postings/cd831e8c-a4d2-4b10-9c9d-5a2c6973f4cf?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
-| Eu C0004534147p | Graduate 5G Network Consultant (10684) | Remote | [Apply](https://career012.successfactors.eu/career?career_ns=job_listing&company=C0004534147P&career_job_req_id=10684&utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Tas-uhg | API Security Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10640/jobdetail.ftl?job=2303892&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Uhg | API Security Engineer | Remote | [Apply](https://uhg.taleo.net/careersection/10640/jobdetail.ftl?job=2303892&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
 | Hdjq.fa.us2 | Electronic Systems Engineering Manager | Remote | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/25023480?utm_source=reddit&utm_medium=organic&utm_campaign=softwareengineerjobs) |
